@@ -49,8 +49,8 @@ button{
   border: none;
   outline: none;
   padding: 16px 50px;
-  background: #ff5945;  
-  color: #fff;
+  background: #790faa;  
+  color: #c0c2cc;
   font-size: 16px;
   cursor: pointer;
   border-radius: 40px;
@@ -76,7 +76,7 @@ ul li::before{
     left: 8px;
 }
 ul li.checked{
-    color: #555;
+    color: #555555;
     text-decoration:line-through ;
 }
 ul li.checked::before{
